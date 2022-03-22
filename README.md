@@ -12,5 +12,4 @@ A junior data engineer with a computer science and engineering background, and e
 - 👯 I completed a three-months intensive training in Machine Learning Engineering and Data Engineering at 10 Academy.
 - 🤔 I’m currently working on data engineering projects.
 - 📫 How to reach me: Email: haftomtek23@gmail.com LinkedIn: https://www.linkedin.com/in/haftom-tekleweyni-275699139/
-- ⚡ Fun fact: I love playing soccer and reading fiction.⚡ Fun fact: I love playing soccer and reading fiction.
-
+- ⚡ Fun fact: I love playing soccer and reading fiction.
